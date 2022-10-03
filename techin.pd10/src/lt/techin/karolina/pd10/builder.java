@@ -14,7 +14,7 @@ public class builder {
         int h = input.nextInt();
         int turimosPlytosIlgis = 20;
         int turimosPlytosAukstis = 10;
-        int plytuKiekis = (((a * 100) / 20) * ((h * 100) / 10));
+        int plytuKiekis = (((a * 100) / turimosPlytosIlgis) * ((h * 100) / turimosPlytosAukstis));
 
         System.out.println("Plytu kiekis " + plytuKiekis);
 
