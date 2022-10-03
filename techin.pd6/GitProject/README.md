@@ -7,4 +7,4 @@ Programa leidzia atlikti nesunkias matematines uzduotis:
 * dalyba
 
 Programos paleidimas command line:
-java Skaiciuotuvas
+java Main.java
