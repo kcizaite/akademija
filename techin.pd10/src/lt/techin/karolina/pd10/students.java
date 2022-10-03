@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class students {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Input: ");
+        System.out.println("Skaicius: ");
         int number1 = input.nextInt();
         int number2 = input.nextInt();
         int number3 = input.nextInt();
